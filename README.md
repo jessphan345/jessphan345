@@ -1,4 +1,4 @@
-![GIF](https://media.giphy.com/media/iC8zFnQhMtFHJj6yMH/giphy.gif)
+![GIF](myimage.gif)
 
 # Jessica Phan
 
