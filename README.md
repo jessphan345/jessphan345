@@ -14,3 +14,6 @@
  
 ## My Links
 * [My Github](https://github.com/jessphan345)
+
+## Dept of Design
+- [Dept of Design](https://www.ewu.edu/cstem/design/)
