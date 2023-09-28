@@ -2,7 +2,7 @@
 
 # Jessica Phan
 
-> I can't remember quotes.
+> I can't remember quotes!
 
 ## Major
 **BDes** Visual Communication Design at ***Eastern Washington University***
